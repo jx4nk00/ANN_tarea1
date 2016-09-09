@@ -1,0 +1,5 @@
+git add README.md 
+git commit -m "Iniciando repo"
+git remote add origin git@gitlab.labcomp.cl:jcgarces/INF477_tarea1.git
+git push -u origin master
+
